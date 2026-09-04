@@ -29,4 +29,14 @@ ever need a full-blown orchestrator.
 
 [Arne Blankerts](https://www.linkedin.com/in/arneblankerts/)
 
+For many years, I have been advising clients on scalable system
+architectures in the PHP environment and accompanying teams in
+technical implementations. My credo: Complexity is not a quality
+feature. I rely on clean, robust solutions with proven technologies and
+consistent automation.
+
+Containers are my preferred tool for stress-free deployments, secure
+operation, and stable infrastructure – whether in the cloud or in an
+efficient "Cloud Optional" setup on your own (virtual) hardware.
+
 
