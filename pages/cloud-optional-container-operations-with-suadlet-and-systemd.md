@@ -7,7 +7,6 @@ description:
 tags:
 ---
 
-<a class="button is-primary" href="https://luma.com/b37ej9tz">register</a>
 
 ## Abstract
 
@@ -39,4 +38,9 @@ Containers are my preferred tool for stress-free deployments, secure
 operation, and stable infrastructure – whether in the cloud or in an
 efficient "Cloud Optional" setup on your own (virtual) hardware.
 
+## Length
 
+60 min
+
+
+<a class="button is-primary" href="https://luma.com/b37ej9tz">register</a>
